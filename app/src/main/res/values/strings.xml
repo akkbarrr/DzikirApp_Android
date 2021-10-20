@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Do\'a Dan Dzikir App</string>
+    <string name="dzikir_dan_doa_harian">Dzikir Dan Doa Harian</string>
+    <string name="dzikir_pagi_petang">Dzikir Pagi Petang</string>
+    <string name="dzikir_pagi">Dzikir Pagi</string>
+    <string name="dzikir_petang">Dzikir Petang</string>
+</resources>
